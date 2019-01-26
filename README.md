@@ -1,2 +1,2 @@
-# HTB_Box_Writeups
+# HacktheBox
 Retired box writeups 
