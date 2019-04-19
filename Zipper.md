@@ -2,7 +2,7 @@
 ### Info:
 OS: Linux<br>
 IP: 10.10.10.108<br>
-Difficulty :  <br>
+Difficulty : easy <br>
 ### Enumeration:
 ```nmap -sC -sV -oA nmap 10.10.10.108``` <br>
 
