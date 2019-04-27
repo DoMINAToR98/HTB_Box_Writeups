@@ -3,7 +3,7 @@
 
 OS: Linux <br>
 IP: 10.10.10.117 <br>
-Difficulty : easy-medium <br>
+Difficulty : easy <br>
 
 ### Enumeration:
 ```nmap  -p0-10000 10.10.10.117 -T5``` <br>
